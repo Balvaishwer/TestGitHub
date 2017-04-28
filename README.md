@@ -1,2 +1,2 @@
 Hello
-This is my b1 branch
+This is my b2 branch
